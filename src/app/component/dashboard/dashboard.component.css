@@ -1,0 +1,8 @@
+.text{
+    letter-spacing: 2px;
+    font-size: 70px;
+  }
+
+.small{
+    letter-spacing: -1px;
+}

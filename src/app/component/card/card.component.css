@@ -1,0 +1,110 @@
+.demo-panel{
+    width: auto;
+    height: auto;
+}
+.primary{
+    width: 30px;
+    height: 0px;
+}
+.mat-toolbar{
+    background: #222;
+}
+.icon{
+ color: yellow;
+ /* cursor: pointer; */
+}
+.color{
+    color: rgb(216, 212, 212);
+}
+
+.adjust-line-height {
+    line-height: 1em;
+  }
+.counter {
+    width: 100px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.counter input {
+    width: 50px;
+    border: 0;
+    line-height: 30px;
+    font-size: 20px;
+    text-align: center;
+    background: gray;
+    color: #fff;
+    appearance: none;
+    outline: 0;
+}
+.counter span {
+    display: block;
+    font-size: 25px;
+    padding: 0 10px;
+    cursor: pointer;
+    color: gray;
+    user-select: none;
+}
+.nowrap {
+    white-space: nowrap ;
+  }
+  .pagination {
+    display: inline-block;
+  }
+  .pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+    border: 1px solid #ddd;
+  }
+  
+  
+  /* .split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  .left {
+    left: 0;
+  }
+  
+  .right {
+    right: 0;
+  }
+  
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  } */
+
+  .abcdd >div{
+    display: inline-block;
+  }
+  .review-align >div{
+    display: inline-block;
+  }
+  .review-align1 >div{
+    display: inline-block;
+  }
+  .info >a{
+    margin-left:200px;
+    color: #7d7d7d;
+    text-align: center;
+  }
+  .h2{
+    font-size: 150%;
+  }
+  .fff{
+    font-size: 15px;
+  }
